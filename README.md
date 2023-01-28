@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Srivastava</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am an engineering student studying computer science, with a focus on Java programming. I enjoy participating in competitive coding competitions and constantly strive to improve my skills. Follow my GitHub for updates on my projects and code snippets.</h3>
 
 - 🌱 I’m currently learning **JAVA and Web development**
 
