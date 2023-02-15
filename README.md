@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/aCash9/images/blob/main/coding.gif" align="center" style="width: 100%" style="height: 100%"/>
 </div>  
-<h1 align="center"> I'm Akash Srivastava</h1>
+<h1 align="center">Hi 👋, I'm Akash Srivastava</h1>
 <h3 align="center">I am an engineering student studying computer science, with a focus on Java programming. I enjoy participating in competitive coding competitions and constantly strive to improve my skills. Follow my GitHub for updates on my projects and code snippets.</h3>
 
 - 🌱 I’m currently learning **JAVA and Web development**
