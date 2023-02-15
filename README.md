@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iuKSBYRM8qqBzWDaOh117AoEV_5PF-Xe/view?usp=share_link)
 
-- ⚡ Fun fact **I never leave my code unformatted.**
+- ⚡ Fun fact : **I never leave my code unformatted.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,8 +28,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aCash9&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="acash9" /></p>
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="center" />
-</div> 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
 
 
