@@ -29,7 +29,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aCash9&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="acash9" /></p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="margin-bottom: 10px;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="margin-bottom: 50px;" />
 </p>
 
 
