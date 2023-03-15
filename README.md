@@ -3,15 +3,15 @@
 </div>  
 <h1 align="center">Hi 👋, I'm Akash Srivastava</h1>
 <h3 align="center">I am an engineering student studying computer science, with a focus on Java programming. I enjoy participating in competitive coding competitions and constantly strive to improve my skills. Follow my GitHub for updates on my projects and code snippets.</h3>
-
+<p align = "center">
  - 🌱 I’m currently learning **JAVA and Web development**
-
+<p align = "center">
 - 📫 How to reach me **srivastava.akash.ak@gmail.com** 
-
+<p align = "center">
  - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iuKSBYRM8qqBzWDaOh117AoEV_5PF-Xe/view?usp=share_link)
-
+<p align = "center">
 - ⚡ Fun fact : **I never leave my code unformatted.**
-
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/akashhsrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashhsrivastav" height="30" width="40" /></a>
