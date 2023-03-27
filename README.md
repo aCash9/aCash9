@@ -28,6 +28,5 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="height: 240px; margin-bottom: 100px;" />
-
-![Visitor Count](https://profile-counter.glitch.me/{aCash9}/count.svg)
 </p>
+
