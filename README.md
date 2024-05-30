@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **srivastava.akash.ak@gmail.com** 
 
- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FBgF68hjTN4XxRYm_mjflOU3bKJ6NQ59/view?usp=drive_link))
+ - 📄 Know about my experiences ([Resume](https://drive.google.com/drive/u/1/folders/1tjgzs20wuhgHfHmW4WK0lcbijm3wqMhQ))
 
 - ⚡ Fun fact : **I never leave my code unformatted.**
 
